@@ -65,8 +65,8 @@ Retrieval-Augmented Generation (RAG) is a technique that combines retrieval-base
 To install and run the Ramayana Chatbot:
 
    ```bash
-   git clone https://github.com/kganeshv12/RamGPT.git
-   cd RamGPT
+   git clone https://github.com/kganeshv12/Ram_GPT.git
+   cd Ram_GPT
    cd Models
    ```
 Next, run the model of your choice!
