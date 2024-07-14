@@ -1,5 +1,14 @@
 # Ramayana Chatbot using RAG Technique
 
+Semester Project submitted for the course Natural Language Processing, PES University.
+
+```
+Ganesh Vaidyanathan K
+Jyotiraditya J
+Sandeep Ram
+Mentor : Dr. Preethi P
+```
+
 ## Overview
 
 This project involves creating a chatbot based on the Indian epic Ramayana using the Retrieval-Augmented Generation (RAG) technique. The chatbot leverages seven different Language Learning Models (LLMs) to provide accurate and insightful responses related to the Ramayana.
